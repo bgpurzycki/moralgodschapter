@@ -1,0 +1,727 @@
+soc_id,sub_case,year,var_id,code,comment,references,source_coded_data,admin_comment
+SCCS2,Nyai Nyae region,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa1 and var_code 32_3"
+SCCS1,Gei/Khauan tribe,1840,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa3 and var_code 32_2"
+SCCS13,"Epulu net-hunters, Ituri forest",1930,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa5 and var_code 32_2"
+SCCS9,Hatsa Kindiga Tribe,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa9 and var_code 32_3"
+SCCS4,Ruling Luyana,1890,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab3 and var_code 32_2"
+SCCS3,,1920,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab4 and var_code 32_2"
+SCCS5,,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab5 and var_code 32_3"
+SCCS6,Feshi territory lineage center,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ac17 and var_code 32_3"
+SCCS7,Zambia branch,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ac3 and var_code 32_3"
+SCCS10,Morogoro District,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad14 and var_code 32_3"
+SCCS11,Fort Hall or Metume district,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad4 and var_code 32_3"
+SCCS8,Age villages of Mwaya and Masoko,1930,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad6 and var_code 32_2"
+SCCS12,Kyaddondo district (V: Kampala),1880,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad7 and var_code 32_2"
+SCCS14,Ilanga group,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ae4 and var_code 32_4"
+SCCS15,Ndiki subtribe,1940,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ae51 and var_code 32_2"
+SCCS18,City and environs of Abomey,1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af1 and var_code 32_3"
+SCCS17,,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Af10 and var_code 32_4"
+SCCS19,Kumasi State,1900,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Af3 and var_code 32_4"
+SCCS20,,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Af5 and var_code 32_4"
+SCCS22,Segou to Bamako on Niger River,1920,SCCS236,4,"Formerly 'clan-barrios' (EA032 code ""4"") grouped within states (3 levels) (EA033 code ""4"") under the former great states of Kaarta and Segou",,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ag1 and var_code 32_4"
+SCCS23,Tallensi Tribe,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ag4 and var_code 32_4"
+SCCS16,Tar of Benue Province,1920,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ah3 and var_code 32_4"
+SCCS30,Nuba Hills,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai10 and var_code 32_3"
+SCCS28,,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai3 and var_code 32_3"
+SCCS32,Northern division,1939,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai47 and var_code 32_2"
+SCCS31,Shilluk Kingdom,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai6 and var_code 32_3"
+SCCS27,Around Yagoua in Cameroon,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai9 and var_code 32_3"
+SCCS34,Kisonko or Southern Masai of Tanzania,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aj2 and var_code 32_3"
+SCCS35,Town of Buso,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ca1 and var_code 32_4"
+SCCS36,Dolbahanta clan or subtribe,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca2 and var_code 32_3"
+SCCS33,Kafa Kingdom,1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca30 and var_code 32_3"
+SCCS38,Bogo Tribe,1850,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca37 and var_code 32_2"
+SCCS37,Gondar district,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca7 and var_code 32_3"
+SCCS29,Jebel Marra,1880,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb17 and var_code 32_3"
+SCCS21,Upper and lower Salum in Gambia,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb2 and var_code 32_3"
+SCCS25,Wodaabe of Niger,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb24 and var_code 32_3"
+SCCS26,Zazzagawa of Zaria,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb26 and var_code 32_3"
+SCCS24,Bamba division,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb3 and var_code 32_3"
+SCCS40,Nomads of Tibesti,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cc2 and var_code 32_3"
+SCCS41,Ahaggaren tribe,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cc9 and var_code 32_3"
+SCCS39,Kenuzi Nubians of Dahmit,1920,SCCS236,3,Integrated into the Egyptian state; had a strong indigenous state in pre-Arab times,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cd1 and var_code 32_3"
+SCCS43,Town and environs of Silwa,1950,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Cd2 and var_code 32_4"
+SCCS42,Entirety: Moroccan,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cd3 and var_code 32_3"
+SCCS48,Mountain Gheg of No. Albania,1900,SCCS236,3,"For the Gheg, but for the Albanians as a whole: 'extended families' (EA032 code ""3"") grouped within states (3 levels) (EA033 code ""4"")",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ce1 and var_code 32_3"
+SCCS49,City and environs of Rome,100,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ce3 and var_code 32_3"
+SCCS50,with special reference to the village of Vera,1934,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ce8 and var_code 32_2"
+SCCS51,County Clare,1930,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cg3 and var_code 32_2"
+SCCS52,Konkama District,1950,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cg4 and var_code 32_2"
+SCCS54,Viriatino Village,1955,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ch11 and var_code 32_2"
+SCCS56,Vicinity of Erevan,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci10 and var_code 32_3"
+SCCS57,,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci11 and var_code 32_3"
+SCCS55,Abkhaz Tribe,1880,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci12 and var_code 32_2"
+SCCS47,Northern Anatolian Plateau,1950,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ci5 and var_code 32_4"
+SCCS46,Unspecified,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj2 and var_code 32_3"
+SCCS44,,-800,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj3 and var_code 32_3"
+SCCS45,City and environs of Babylon,-2000,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj4 and var_code 32_2"
+SCCS59,Mohla Village,1950,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ea13 and var_code 32_4"
+SCCS58,Nomadic branch,1958,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ea6 and var_code 32_2"
+SCCS65,Great Horde,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eb1 and var_code 32_3"
+SCCS66,Narobanchin Territory,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eb3 and var_code 32_3"
+SCCS119,Sakhalin Island,1920,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec1 and var_code 32_2"
+SCCS121,Reindeer Division,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec3 and var_code 32_3"
+SCCS53,Yurak Tribe,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec4 and var_code 32_3"
+SCCS120,Upper Kolyma River,1850,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec6 and var_code 32_3"
+SCCS118,Saru Basin in Hokkaido,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec7 and var_code 32_3"
+SCCS116,Kanghwa Island,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed1 and var_code 32_3"
+SCCS114,"Kaihsienkung Village, Chekiang",1936,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed15b and var_code 32_3"
+SCCS67,Liang Shan and Taliang S,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed2 and var_code 32_3"
+SCCS115,Aigun District,1920,SCCS236,4,Integrated into the Chinese state,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ed3 and var_code 32_4"
+SCCS117,Okayama,1950,SCCS236,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ed5 and var_code 32_2"
+SCCS64,Hunza State,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ee2 and var_code 32_4"
+SCCS68,Lingthem and vicinity,1930,SCCS236,3,Subject to the Maharajah of Sikkim through district chiefs,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ee3 and var_code 32_3"
+SCCS62,Bankura and Berghum Districts,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ef1 and var_code 32_3"
+SCCS63,Village and environs of Senapur,1945,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ef11 and var_code 32_4"
+SCCS60,Hill Maria,1938,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eg3 and var_code 32_3"
+SCCS61,Toda Tribe,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eg4 and var_code 32_3"
+SCCS79,,1870,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh1 and var_code 32_2"
+SCCS81,Menabe subtribe,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Eh3 and var_code 32_4"
+SCCS80,with special reference to the Rock Vedda,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Eh4 and var_code 32_3"
+SCCS78,Car Nicobar of North Islands,1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh5 and var_code 32_3"
+SCCS69,Rengsanggr,1900,SCCS236,3,But integrated today into the political system of India,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ei1 and var_code 32_3"
+SCCS71,Nondwin Village,1950,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ei3 and var_code 32_2"
+SCCS70,Lakher Tribe,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ei4 and var_code 32_3"
+SCCS72,"Lamet Tribe, Northwestern Laos",1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej1 and var_code 32_3"
+SCCS74,Ko-Sier Village,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej10 and var_code 32_3"
+SCCS75,with special reference to the city and environs of Angkor Wat in 1292,1292,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej15 and var_code 32_2"
+SCCS82,Inas District,1958,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej16 and var_code 32_3"
+SCCS77,Jehai Group or subtribe,1920,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej3 and var_code 32_2"
+SCCS73,Red River Delta in Tonkin,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej4 and var_code 32_3"
+SCCS76,,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej9 and var_code 32_3"
+SCCS113,Atayal Tribe (but exdluding Sedeq),1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia1 and var_code 32_3"
+SCCS86,Tawi-Tawi and adjacent islands,1960,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia13 and var_code 32_2"
+SCCS112,Kiangan Group,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia3 and var_code 32_3"
+SCCS85,"Ulu Ai Group, Baleh",1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ib1 and var_code 32_3"
+SCCS83,Town and environs of Pare; Modjokuto,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ib2 and var_code 32_3"
+SCCS84,Tihingan Village,1950,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ib3 and var_code 32_4"
+SCCS88,Tobelo District,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ic10 and var_code 32_3"
+SCCS89,Abui of Atimelang Village,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ic2 and var_code 32_3"
+SCCS87,Bare'e subgroup,1910,SCCS236,3,"But 'extended families' (EA032 code ""3"") with 'no political authority beyond the local community' (EA033 code ""1"") among the eastern Toraja [kk check orig comment]",,EthnographicAtlas_1967_p63,"Assume Murdock comment, listed in Gray (1999), applies to this variable, not Col 30, In D-PLACE EA dataset, see soc Ic5 and var_code 32_3"
+SCCS91,Alice Springs and environs,1900,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Id1 and var_code 32_2"
+SCCS90,Tiwi Tribe: Melville Island,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Id3 and var_code 32_3"
+SCCS94,"Botukebo village, Kamu Valley,  Ijaaj-Pigome confederacy",1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ie1 and var_code 32_3"
+SCCS95,Hongwam subtribe; Rumbima,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ie12 and var_code 32_3"
+SCCS93,Bamol Village,1940,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ie18 and var_code 32_4"
+SCCS92,,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ie9 and var_code 32_3"
+SCCS111,"Ulimang, Badeldaob Island",1940,SCCS236,4,,,EthnographicAtlas_1967_p67,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc If1 and var_code 32_4"
+SCCS107,Makin and Butiritari Islands (N),1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If14 and var_code 32_3"
+SCCS108,with special reference to the island of Jaluit,1900,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If17 and var_code 32_3"
+SCCS109,Romonum Island,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If2 and var_code 32_3"
+SCCS110,Island,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If6 and var_code 32_3"
+SCCS99,Northeastern group,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig1 and var_code 32_3"
+SCCS98,Kiriwina Island,1910,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig2 and var_code 32_2"
+SCCS97,Lesu Village,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig4 and var_code 32_3"
+SCCS96,Peri Village,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig9 and var_code 32_3"
+SCCS102,"Bau Chiefdom, Vanua Levu",1840,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih14 and var_code 32_3"
+SCCS101,Bunlap Village,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih3 and var_code 32_3"
+SCCS103,Neje Chiefdom,1860,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih5 and var_code 32_3"
+SCCS106,,1829,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ii14 and var_code 32_4"
+SCCS100,Ravenga District,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ii2 and var_code 32_3"
+SCCS104,Nga Puhi Tribe,1820,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ij2 and var_code 32_3"
+SCCS105,,1900,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ij3 and var_code 32_2"
+SCCS128,"Lynx Point band, Fort Simpson",1860,SCCS236,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Na17 and var_code 32_2"
+SCCS124,Coronation Gulf,1920,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na3 and var_code 32_2"
+SCCS125,Lake St. John & Mistassini Band,1880,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na32 and var_code 32_3"
+SCCS127,Berens River band,1870,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na33 and var_code 32_3"
+SCCS129,Upper Liard and Dease River Group,1920,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na4 and var_code 32_2"
+SCCS126,Mainland division,1700,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na41 and var_code 32_2"
+SCCS122,Shageluk Village,1880,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na8 and var_code 32_2"
+SCCS123,Unalaska Branch (Eastern Aleut),1830,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Na9 and var_code 32_3"
+SCCS131,Masset Town,1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb1 and var_code 32_3"
+SCCS133,Twana Tribe,1850,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb2 and var_code 32_3"
+SCCS134,,1850,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb4 and var_code 32_3"
+SCCS130,Eyak Tribe,1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb5 and var_code 32_3"
+SCCS132,"Central group, lower B.C. River",1880,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb9 and var_code 32_3"
+SCCS135,"Clear Lake, Village of Cignon",1860,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc18 and var_code 32_3"
+SCCS136,Tulare Lake,1860,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc24 and var_code 32_3"
+SCCS138,Klamath Tribe,1860,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc8 and var_code 32_3"
+SCCS137,Wadadika of Harney Valley,1870,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd22 and var_code 32_2"
+SCCS150,Havasupai Tribe,1870,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd3 and var_code 32_3"
+SCCS139,Lower or eastern branch,1880,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd7 and var_code 32_2"
+SCCS140,Gros Ventre Tribe,1880,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne1 and var_code 32_2"
+SCCS141,Hidatsa Village,1860,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne15 and var_code 32_3"
+SCCS147,Comanche Tribe,1870,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne3 and var_code 32_3"
+SCCS143,Omaha Tribe,1850,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nf3 and var_code 32_3"
+SCCS142,Skidi Band or subtribe,1867,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nf6 and var_code 32_3"
+SCCS144,Bear and Cord Subtribes,1640,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng1 and var_code 32_3"
+SCCS145,Upper division in Alabama,1750,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Ng3 and var_code 32_4"
+SCCS146,Natchez Kingdom,1700,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng7 and var_code 32_3"
+SCCS148,Central band,1880,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nh1 and var_code 32_3"
+SCCS149,Pueblo,1910,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Nh4 and var_code 32_4"
+SCCS151,,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ni2 and var_code 32_3"
+SCCS152,Huichol Tribe,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ni3 and var_code 32_3"
+SCCS153,City & environs of Tenochtitlan,1520,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nj2 and var_code 32_3"
+SCCS154,Town and environs of Soteapan,1940,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nj3 and var_code 32_2"
+SCCS158,San Blas Archipelago,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa1 and var_code 32_3"
+SCCS155,Town of Chichicastenango,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa13 and var_code 32_3"
+SCCS157,,1950,SCCS236,2,"Formerly 'extended families' (EA032 code ""3"") grouped within 'petty chiefdoms' (1 level) (EA033 code ""2"")",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa5 and var_code 32_2"
+SCCS156,Vicinity: Cape Gracias a Dios,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa9 and var_code 32_3"
+SCCS161,Dominica Island,1650,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb1 and var_code 32_3"
+SCCS159,Goajiro Tribe,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb6 and var_code 32_3"
+SCCS160,,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb9 and var_code 32_3"
+SCCS162,,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sc1 and var_code 32_3"
+SCCS164,Barama River,1930,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sc3 and var_code 32_2"
+SCCS165,Upper Suriname River; Akwa on Morini River,1920,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sc6 and var_code 32_3"
+SCCS166,Cabrura village,1950,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sd1 and var_code 32_3"
+SCCS163,Shamatari Tribe; Bisaasi-teri,1965,SCCS236,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sd9 and var_code 32_3"
+SCCS173,Vicinity of the Rio Blanco,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se1 and var_code 32_3"
+SCCS169,,1930,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se3 and var_code 32_2"
+SCCS167,Village on Caduiari River,1940,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se5 and var_code 32_2"
+SCCS170,Upper Inuya River,1950,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se8 and var_code 32_2"
+SCCS171,City and environs of Cuzco,1530,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sf1 and var_code 32_2"
+SCCS172,Chucuito Clan community in Peru,1940,SCCS236,3,"Formerly integrated into the Inca state, today into the Bolivian and Peruvian states",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sf2 and var_code 32_3"
+SCCS168,Rio Cayapas Basin,1910,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sf3 and var_code 32_3"
+SCCS186,Eastern and central,1870,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sg1 and var_code 32_2"
+SCCS184,Cholchol,1880,SCCS236,4,,,EthnographicAtlas_1967_p67,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sg2 and var_code 32_4"
+SCCS185,Equestrian,1870,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sg4 and var_code 32_3"
+SCCS183,Those in contact with mission,1800,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sh3 and var_code 32_2"
+SCCS182,Those in contact with mission,1890,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sh9 and var_code 32_3"
+SCCS175,Village of Vanivani,1930,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Si2 and var_code 32_3"
+SCCS174,Cocozu Group,1940,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Si4 and var_code 32_3"
+SCCS181,Taquapiri,1950,SCCS236,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sj10 and var_code 32_2"
+SCCS179,Village of Sao Domingo,1958,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Sj11 and var_code 32_4"
+SCCS180,Duque de Caxias Reservation,1910,SCCS236,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj3 and var_code 32_2"
+SCCS176,Ramcocamecra or Canella,1930,SCCS236,4,,,EthnographicAtlas_1967_p67,"DPLACE EA dataset, see soc Sj4 and var_code 32_4"
+SCCS178,Naknenuk subtribe,1880,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj5 and var_code 32_3"
+SCCS177,Hinterland of Rio de Janeiro,1600,SCCS236,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj8 and var_code 32_3"
+SCCS2,Nyai Nyae region,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa1 and var_code 33_1"
+SCCS1,Gei/Khauan tribe,1840,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa3 and var_code 33_2"
+SCCS13,"Epulu net-hunters, Ituri forest",1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa5 and var_code 33_1"
+SCCS9,Hatsa Kindiga Tribe,1910,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa9 and var_code 33_1"
+SCCS4,Ruling Luyana,1890,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab3 and var_code 33_4"
+SCCS3,,1920,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab4 and var_code 33_3"
+SCCS5,,1930,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab5 and var_code 33_3"
+SCCS6,Feshi territory lineage center,1910,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ac17 and var_code 33_4"
+SCCS7,Zambia branch,1900,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ac3 and var_code 33_3"
+SCCS10,Morogoro District,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad14 and var_code 33_1"
+SCCS11,Fort Hall or Metume district,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad4 and var_code 33_1"
+SCCS8,Age villages of Mwaya and Masoko,1930,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad6 and var_code 33_3"
+SCCS12,Kyaddondo district (V: Kampala),1880,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad7 and var_code 33_4"
+SCCS14,Ilanga group,1930,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ae4 and var_code 33_3"
+SCCS15,Ndiki subtribe,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ae51 and var_code 33_1"
+SCCS18,City and environs of Abomey,1890,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af1 and var_code 33_4"
+SCCS17,,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af10 and var_code 33_2"
+SCCS19,Kumasi State,1900,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af3 and var_code 33_3"
+SCCS20,,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af5 and var_code 33_2"
+SCCS22,Segou to Bamako on Niger River,1920,SCCS237,2,"Formerly 'clan-barrios' (EA032 code ""4"") grouped within states (3 levels) (EA033 code ""4"") under the former great states of Kaarta and Segou",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ag1 and var_code 33_2"
+SCCS23,Tallensi Tribe,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ag4 and var_code 33_1"
+SCCS16,Tar of Benue Province,1920,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ah3 and var_code 33_2"
+SCCS30,Nuba Hills,1940,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai10 and var_code 33_2"
+SCCS28,,1920,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai3 and var_code 33_3"
+SCCS32,Northern division,1939,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai47 and var_code 33_2"
+SCCS31,Shilluk Kingdom,1900,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai6 and var_code 33_2"
+SCCS27,Around Yagoua in Cameroon,1910,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai9 and var_code 33_1"
+SCCS34,Kisonko or Southern Masai of Tanzania,1900,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aj2 and var_code 33_2"
+SCCS35,Town of Buso,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca1 and var_code 33_1"
+SCCS36,Dolbahanta clan or subtribe,1950,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca2 and var_code 33_3"
+SCCS33,Kafa Kingdom,1890,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ca30 and var_code 33_5"
+SCCS38,Bogo Tribe,1850,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca37 and var_code 33_2"
+SCCS37,Gondar district,1950,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca7 and var_code 33_4"
+SCCS29,Jebel Marra,1880,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb17 and var_code 33_4"
+SCCS21,Upper and lower Salum in Gambia,1950,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb2 and var_code 33_3"
+SCCS25,Wodaabe of Niger,1950,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb24 and var_code 33_2"
+SCCS26,Zazzagawa of Zaria,1950,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb26 and var_code 33_4"
+SCCS24,Bamba division,1940,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cb3 and var_code 33_4"
+SCCS40,Nomads of Tibesti,1950,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cc2 and var_code 33_2"
+SCCS41,Ahaggaren tribe,1920,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cc9 and var_code 33_3"
+SCCS39,Kenuzi Nubians of Dahmit,1920,SCCS237,1,Integrated into the Egyptian state; had a strong indigenous state in pre-Arab times,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cd1 and var_code 33_1"
+SCCS43,Town and environs of Silwa,1950,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cd2 and var_code 33_4"
+SCCS42,Entirety: Moroccan,1920,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cd3 and var_code 33_2"
+SCCS48,Mountain Gheg of No. Albania,1900,SCCS237,3,"For the Gheg, but for the Albanians as a whole: 'extended families' (EA032 code ""3"") grouped within states (3 levels) (EA033 code ""4"")",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ce1 and var_code 33_3"
+SCCS49,City and environs of Rome,100,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ce3 and var_code 33_5"
+SCCS50,with special reference to the village of Vera,1934,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ce8 and var_code 33_4"
+SCCS51,County Clare,1930,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cg3 and var_code 33_3"
+SCCS52,Konkama District,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cg4 and var_code 33_1"
+SCCS54,Viriatino Village,1955,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ch11 and var_code 33_5"
+SCCS56,Vicinity of Erevan,1900,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci10 and var_code 33_4"
+SCCS57,,1940,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci11 and var_code 33_3"
+SCCS55,Abkhaz Tribe,1880,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci12 and var_code 33_2"
+SCCS47,Northern Anatolian Plateau,1950,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ci5 and var_code 33_4"
+SCCS46,Unspecified,1920,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj2 and var_code 33_2"
+SCCS44,,-800,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj3 and var_code 33_3"
+SCCS45,City and environs of Babylon,-2000,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj4 and var_code 33_4"
+SCCS59,Mohla Village,1950,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ea13 and var_code 33_5"
+SCCS58,Nomadic branch,1958,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ea6 and var_code 33_2"
+SCCS65,Great Horde,1910,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eb1 and var_code 33_4"
+SCCS66,Narobanchin Territory,1940,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eb3 and var_code 33_4"
+SCCS119,Sakhalin Island,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec1 and var_code 33_1"
+SCCS121,Reindeer Division,1900,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec3 and var_code 33_1"
+SCCS53,Yurak Tribe,1900,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec4 and var_code 33_1"
+SCCS120,Upper Kolyma River,1850,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec6 and var_code 33_1"
+SCCS118,Saru Basin in Hokkaido,1900,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec7 and var_code 33_2"
+SCCS116,Kanghwa Island,1950,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed1 and var_code 33_3"
+SCCS114,"Kaihsienkung Village, Chekiang",1936,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ed15b and var_code 33_5"
+SCCS67,Liang Shan and Taliang S,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed2 and var_code 33_1"
+SCCS115,Aigun District,1920,SCCS237,NA,Integrated into the Chinese state,,EthnographicAtlas_1967_p87,"DPLACE EA dataset, see soc Ed3 and var_code 33_NA"
+SCCS117,Okayama,1950,SCCS237,5,,,EthnographicAtlas_1967_p79,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ed5 and var_code 33_5"
+SCCS64,Hunza State,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ee2 and var_code 33_2"
+SCCS68,Lingthem and vicinity,1930,SCCS237,2,Subject to the Maharajah of Sikkim through district chiefs,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ee3 and var_code 33_2"
+SCCS62,Bankura and Berghum Districts,1940,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ef1 and var_code 33_2"
+SCCS63,Village and environs of Senapur,1945,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ef11 and var_code 33_5"
+SCCS60,Hill Maria,1938,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eg3 and var_code 33_2"
+SCCS61,Toda Tribe,1900,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eg4 and var_code 33_2"
+SCCS79,,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh1 and var_code 33_1"
+SCCS81,Menabe subtribe,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh3 and var_code 33_2"
+SCCS80,with special reference to the Rock Vedda,1900,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Eh4 and var_code 33_1"
+SCCS78,Car Nicobar of North Islands,1890,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh5 and var_code 33_1"
+SCCS69,Rengsanggr,1900,SCCS237,2,But integrated today into the political system of India,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ei1 and var_code 33_2"
+SCCS71,Nondwin Village,1950,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ei3 and var_code 33_4"
+SCCS70,Lakher Tribe,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ei4 and var_code 33_2"
+SCCS72,"Lamet Tribe, Northwestern Laos",1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej1 and var_code 33_1"
+SCCS74,Ko-Sier Village,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej10 and var_code 33_1"
+SCCS75,with special reference to the city and environs of Angkor Wat in 1292,1292,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ej15 and var_code 33_5"
+SCCS82,Inas District,1958,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej16 and var_code 33_4"
+SCCS77,Jehai Group or subtribe,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej3 and var_code 33_1"
+SCCS73,Red River Delta in Tonkin,1950,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ej4 and var_code 33_5"
+SCCS76,,1940,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ej9 and var_code 33_5"
+SCCS113,Atayal Tribe (but exdluding Sedeq),1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia1 and var_code 33_2"
+SCCS86,Tawi-Tawi and adjacent islands,1960,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia13 and var_code 33_1"
+SCCS112,Kiangan Group,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia3 and var_code 33_1"
+SCCS85,"Ulu Ai Group, Baleh",1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ib1 and var_code 33_1"
+SCCS83,Town and environs of Pare; Modjokuto,1950,SCCS237,5,,,EthnographicAtlas_1967_p79,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ib2 and var_code 33_5"
+SCCS84,Tihingan Village,1950,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ib3 and var_code 33_4"
+SCCS88,Tobelo District,1910,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ic10 and var_code 33_3"
+SCCS89,Abui of Atimelang Village,1940,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ic2 and var_code 33_3"
+SCCS87,Bare'e subgroup,1910,SCCS237,2,"But 'extended families' (EA032 code ""3"") with 'no political authority beyond the local community' (EA033 code ""1"") among the eastern Toraja [kk check orig comment]",,EthnographicAtlas_1967_p63,"Assume Murdock comment, listed in Gray (1999), applies to this variable, not Col 30, In D-PLACE EA dataset, see soc Ic5 and var_code 33_2"
+SCCS91,Alice Springs and environs,1900,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Id1 and var_code 33_1"
+SCCS90,Tiwi Tribe: Melville Island,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Id3 and var_code 33_1"
+SCCS94,"Botukebo village, Kamu Valley,  Ijaaj-Pigome confederacy",1950,SCCS237,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ie1 and var_code 33_2"
+SCCS95,Hongwam subtribe; Rumbima,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ie12 and var_code 33_1"
+SCCS93,Bamol Village,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ie18 and var_code 33_1"
+SCCS92,,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ie9 and var_code 33_1"
+SCCS111,"Ulimang, Badeldaob Island",1940,SCCS237,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc If1 and var_code 33_3"
+SCCS107,Makin and Butiritari Islands (N),1890,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If14 and var_code 33_2"
+SCCS108,with special reference to the island of Jaluit,1900,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If17 and var_code 33_2"
+SCCS109,Romonum Island,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If2 and var_code 33_1"
+SCCS110,Island,1910,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If6 and var_code 33_2"
+SCCS99,Northeastern group,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig1 and var_code 33_1"
+SCCS98,Kiriwina Island,1910,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig2 and var_code 33_2"
+SCCS97,Lesu Village,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig4 and var_code 33_1"
+SCCS96,Peri Village,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig9 and var_code 33_1"
+SCCS102,"Bau Chiefdom, Vanua Levu",1840,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih14 and var_code 33_3"
+SCCS101,Bunlap Village,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih3 and var_code 33_1"
+SCCS103,Neje Chiefdom,1860,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih5 and var_code 33_2"
+SCCS106,,1829,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ii14 and var_code 33_3"
+SCCS100,Ravenga District,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ii2 and var_code 33_2"
+SCCS104,Nga Puhi Tribe,1820,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ij2 and var_code 33_2"
+SCCS105,,1900,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ij3 and var_code 33_2"
+SCCS128,"Lynx Point band, Fort Simpson",1860,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Na17 and var_code 33_1"
+SCCS124,Coronation Gulf,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na3 and var_code 33_1"
+SCCS125,Lake St. John & Mistassini Band,1880,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na32 and var_code 33_1"
+SCCS127,Berens River band,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na33 and var_code 33_1"
+SCCS129,Upper Liard and Dease River Group,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na4 and var_code 33_1"
+SCCS126,Mainland division,1700,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na41 and var_code 33_2"
+SCCS122,Shageluk Village,1880,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na8 and var_code 33_1"
+SCCS123,Unalaska Branch (Eastern Aleut),1830,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Na9 and var_code 33_1"
+SCCS131,Masset Town,1890,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb1 and var_code 33_1"
+SCCS133,Twana Tribe,1850,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb2 and var_code 33_1"
+SCCS134,,1850,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb4 and var_code 33_1"
+SCCS130,Eyak Tribe,1890,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb5 and var_code 33_2"
+SCCS132,"Central group, lower B.C. River",1880,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb9 and var_code 33_1"
+SCCS135,"Clear Lake, Village of Cignon",1860,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc18 and var_code 33_1"
+SCCS136,Tulare Lake,1860,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc24 and var_code 33_1"
+SCCS138,Klamath Tribe,1860,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc8 and var_code 33_1"
+SCCS137,Wadadika of Harney Valley,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd22 and var_code 33_1"
+SCCS150,Havasupai Tribe,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd3 and var_code 33_1"
+SCCS139,Lower or eastern branch,1880,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd7 and var_code 33_2"
+SCCS140,Gros Ventre Tribe,1880,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne1 and var_code 33_2"
+SCCS141,Hidatsa Village,1860,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne15 and var_code 33_1"
+SCCS147,Comanche Tribe,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne3 and var_code 33_1"
+SCCS143,Omaha Tribe,1850,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nf3 and var_code 33_2"
+SCCS142,Skidi Band or subtribe,1867,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nf6 and var_code 33_2"
+SCCS144,Bear and Cord Subtribes,1640,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng1 and var_code 33_2"
+SCCS145,Upper division in Alabama,1750,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng3 and var_code 33_3"
+SCCS146,Natchez Kingdom,1700,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng7 and var_code 33_2"
+SCCS148,Central band,1880,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nh1 and var_code 33_1"
+SCCS149,Pueblo,1910,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nh4 and var_code 33_1"
+SCCS151,,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ni2 and var_code 33_1"
+SCCS152,Huichol Tribe,1920,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ni3 and var_code 33_1"
+SCCS153,City & environs of Tenochtitlan,1520,SCCS237,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nj2 and var_code 33_3"
+SCCS154,Town and environs of Soteapan,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nj3 and var_code 33_1"
+SCCS158,San Blas Archipelago,1940,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa1 and var_code 33_2"
+SCCS155,Town of Chichicastenango,1930,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa13 and var_code 33_2"
+SCCS157,,1950,SCCS237,1,"Formerly 'extended families' (EA032 code ""3"") grouped within 'petty chiefdoms' (1 level) (EA033 code ""2"")",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa5 and var_code 33_1"
+SCCS156,Vicinity: Cape Gracias a Dios,1920,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa9 and var_code 33_2"
+SCCS161,Dominica Island,1650,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb1 and var_code 33_1"
+SCCS159,Goajiro Tribe,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb6 and var_code 33_1"
+SCCS160,,1930,SCCS237,4,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb9 and var_code 33_4"
+SCCS162,,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sc1 and var_code 33_1"
+SCCS164,Barama River,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sc3 and var_code 33_1"
+SCCS165,Upper Suriname River; Akwa on Morini River,1920,SCCS237,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sc6 and var_code 33_3"
+SCCS166,Cabrura village,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sd1 and var_code 33_1"
+SCCS163,Shamatari Tribe; Bisaasi-teri,1965,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sd9 and var_code 33_1"
+SCCS173,Vicinity of the Rio Blanco,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se1 and var_code 33_1"
+SCCS169,,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se3 and var_code 33_1"
+SCCS167,Village on Caduiari River,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se5 and var_code 33_1"
+SCCS170,Upper Inuya River,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se8 and var_code 33_1"
+SCCS171,City and environs of Cuzco,1530,SCCS237,5,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sf1 and var_code 33_5"
+SCCS172,Chucuito Clan community in Peru,1940,SCCS237,NA,"Formerly integrated into the Inca state, today into the Bolivian and Peruvian states",,EthnographicAtlas_1967_p87,"DPLACE EA dataset, see soc Sf2 and var_code 33_NA"
+SCCS168,Rio Cayapas Basin,1910,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sf3 and var_code 33_1"
+SCCS186,Eastern and central,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sg1 and var_code 33_1"
+SCCS184,Cholchol,1880,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sg2 and var_code 33_1"
+SCCS185,Equestrian,1870,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sg4 and var_code 33_1"
+SCCS183,Those in contact with mission,1800,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sh3 and var_code 33_1"
+SCCS182,Those in contact with mission,1890,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sh9 and var_code 33_1"
+SCCS175,Village of Vanivani,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Si2 and var_code 33_1"
+SCCS174,Cocozu Group,1940,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Si4 and var_code 33_1"
+SCCS181,Taquapiri,1950,SCCS237,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sj10 and var_code 33_1"
+SCCS179,Village of Sao Domingo,1958,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj11 and var_code 33_1"
+SCCS180,Duque de Caxias Reservation,1910,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj3 and var_code 33_1"
+SCCS176,Ramcocamecra or Canella,1930,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj4 and var_code 33_1"
+SCCS178,Naknenuk subtribe,1880,SCCS237,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj5 and var_code 33_1"
+SCCS177,Hinterland of Rio de Janeiro,1600,SCCS237,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj8 and var_code 33_2"
+SCCS2,Nyai Nyae region,1950,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa1 and var_code 34_3"
+SCCS1,Gei/Khauan tribe,1840,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa3 and var_code 34_1"
+SCCS13,"Epulu net-hunters, Ituri forest",1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa5 and var_code 34_1"
+SCCS9,Hatsa Kindiga Tribe,1910,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Aa9 and var_code 34_1"
+SCCS4,Ruling Luyana,1890,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab3 and var_code 34_2"
+SCCS5,,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ab5 and var_code 34_2"
+SCCS6,Feshi territory lineage center,1910,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ac17 and var_code 34_2"
+SCCS7,Zambia branch,1900,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ac3 and var_code 34_3"
+SCCS10,Morogoro District,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad14 and var_code 34_2"
+SCCS11,Fort Hall or Metume district,1930,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad4 and var_code 34_3"
+SCCS8,Age villages of Mwaya and Masoko,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad6 and var_code 34_2"
+SCCS12,Kyaddondo district (V: Kampala),1880,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ad7 and var_code 34_2"
+SCCS14,Ilanga group,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ae4 and var_code 34_2"
+SCCS15,Ndiki subtribe,1940,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ae51 and var_code 34_2"
+SCCS18,City and environs of Abomey,1890,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af1 and var_code 34_1"
+SCCS17,,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af10 and var_code 34_2"
+SCCS19,Kumasi State,1900,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af3 and var_code 34_2"
+SCCS20,,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Af5 and var_code 34_2"
+SCCS22,Segou to Bamako on Niger River,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ag1 and var_code 34_1"
+SCCS23,Tallensi Tribe,1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ag4 and var_code 34_1"
+SCCS16,Tar of Benue Province,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ah3 and var_code 34_1"
+SCCS28,,1920,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai3 and var_code 34_3"
+SCCS32,Northern division,1939,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai47 and var_code 34_2"
+SCCS31,Shilluk Kingdom,1900,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai6 and var_code 34_2"
+SCCS27,Around Yagoua in Cameroon,1910,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ai9 and var_code 34_2"
+SCCS35,Town of Buso,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca1 and var_code 34_2"
+SCCS36,Dolbahanta clan or subtribe,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ca2 and var_code 34_4"
+SCCS33,Kafa Kingdom,1890,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ca30 and var_code 34_2"
+SCCS38,Bogo Tribe,1850,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ca37 and var_code 34_4"
+SCCS37,Gondar district,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ca7 and var_code 34_4"
+SCCS29,Jebel Marra,1880,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cb17 and var_code 34_4"
+SCCS21,Upper and lower Salum in Gambia,1950,SCCS238,4,"Under Islam, but formerly 'absent' (code ""1"")",,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cb2 and var_code 34_4"
+SCCS25,Wodaabe of Niger,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cb24 and var_code 34_4"
+SCCS26,Zazzagawa of Zaria,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cb26 and var_code 34_4"
+SCCS24,Bamba division,1940,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cb3 and var_code 34_4"
+SCCS40,Nomads of Tibesti,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cc2 and var_code 34_4"
+SCCS41,Ahaggaren tribe,1920,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cc9 and var_code 34_4"
+SCCS39,Kenuzi Nubians of Dahmit,1920,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cd1 and var_code 34_4"
+SCCS43,Town and environs of Silwa,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cd2 and var_code 34_4"
+SCCS42,Entirety: Moroccan,1920,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cd3 and var_code 34_4"
+SCCS48,Mountain Gheg of No. Albania,1900,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ce1 and var_code 34_4"
+SCCS49,City and environs of Rome,100,SCCS238,1,Variable beliefs at this period,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ce3 and var_code 34_1"
+SCCS50,with special reference to the village of Vera,1934,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ce8 and var_code 34_4"
+SCCS51,County Clare,1930,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cg3 and var_code 34_4"
+SCCS52,Konkama District,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cg4 and var_code 34_4"
+SCCS54,Viriatino Village,1955,SCCS238,4,But officially disapproved,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ch11 and var_code 34_4"
+SCCS56,Vicinity of Erevan,1900,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ci10 and var_code 34_4"
+SCCS57,,1940,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ci11 and var_code 34_4"
+SCCS55,Abkhaz Tribe,1880,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ci12 and var_code 34_4"
+SCCS47,Northern Anatolian Plateau,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ci5 and var_code 34_4"
+SCCS46,Unspecified,1920,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cj2 and var_code 34_4"
+SCCS44,,-800,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Cj3 and var_code 34_4"
+SCCS45,City and environs of Babylon,-2000,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Cj4 and var_code 34_1"
+SCCS59,Mohla Village,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ea13 and var_code 34_4"
+SCCS58,Nomadic branch,1958,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ea6 and var_code 34_4"
+SCCS65,Great Horde,1910,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Eb1 and var_code 34_4"
+SCCS119,Sakhalin Island,1920,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec1 and var_code 34_2"
+SCCS121,Reindeer Division,1900,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec3 and var_code 34_3"
+SCCS53,Yurak Tribe,1900,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec4 and var_code 34_3"
+SCCS118,Saru Basin in Hokkaido,1900,SCCS238,1,Subsequent observers have contradicted Batchelor's report of a belief in a high god,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ec7 and var_code 34_1"
+SCCS116,Kanghwa Island,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed1 and var_code 34_1"
+SCCS114,"Kaihsienkung Village, Chekiang",1936,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed15b and var_code 34_1"
+SCCS67,Liang Shan and Taliang S,1940,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ed2 and var_code 34_1"
+SCCS117,Okayama,1950,SCCS238,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ed5 and var_code 34_2"
+SCCS64,Hunza State,1930,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ee2 and var_code 34_4"
+SCCS68,Lingthem and vicinity,1930,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ee3 and var_code 34_3"
+SCCS62,Bankura and Berghum Districts,1940,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ef1 and var_code 34_2"
+SCCS63,Village and environs of Senapur,1945,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ef11 and var_code 34_2"
+SCCS60,Hill Maria,1938,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eg3 and var_code 34_3"
+SCCS61,Toda Tribe,1900,SCCS238,1,"There is, however, a female supreme deity whose younger brother created men and buffaloes",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eg4 and var_code 34_1"
+SCCS79,,1870,SCCS238,1,"Entry follows Radcliffe-Brown, who could find no confirmation of Man's report of a supreme being",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh1 and var_code 34_1"
+SCCS81,Menabe subtribe,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Eh3 and var_code 34_2"
+SCCS80,with special reference to the Rock Vedda,1900,SCCS238,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Eh4 and var_code 34_1"
+SCCS69,Rengsanggr,1900,SCCS238,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ei1 and var_code 34_2"
+SCCS71,Nondwin Village,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ei3 and var_code 34_1"
+SCCS70,Lakher Tribe,1930,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ei4 and var_code 34_4"
+SCCS72,"Lamet Tribe, Northwestern Laos",1940,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej1 and var_code 34_1"
+SCCS74,Ko-Sier Village,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej10 and var_code 34_1"
+SCCS75,with special reference to the city and environs of Angkor Wat in 1292,1292,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej15 and var_code 34_2"
+SCCS82,Inas District,1958,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ej16 and var_code 34_4"
+SCCS77,Jehai Group or subtribe,1920,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej3 and var_code 34_3"
+SCCS73,Red River Delta in Tonkin,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej4 and var_code 34_1"
+SCCS76,,1940,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ej9 and var_code 34_2"
+SCCS113,Atayal Tribe (but exdluding Sedeq),1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia1 and var_code 34_1"
+SCCS112,Kiangan Group,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ia3 and var_code 34_1"
+SCCS85,"Ulu Ai Group, Baleh",1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ib1 and var_code 34_1"
+SCCS83,Town and environs of Pare; Modjokuto,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ib2 and var_code 34_1"
+SCCS84,Tihingan Village,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ib3 and var_code 34_1"
+SCCS89,Abui of Atimelang Village,1940,SCCS238,2,But Nicolspeyer denies a belief in a supreme being,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ic2 and var_code 34_2"
+SCCS91,Alice Springs and environs,1900,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Id1 and var_code 34_1"
+SCCS90,Tiwi Tribe: Melville Island,1920,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Id3 and var_code 34_2"
+SCCS94,"Botukebo village, Kamu Valley,  Ijaaj-Pigome confederacy",1950,SCCS238,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ie1 and var_code 34_2"
+SCCS95,Hongwam subtribe; Rumbima,1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Ie12 and var_code 34_1"
+SCCS92,,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ie9 and var_code 34_1"
+SCCS111,"Ulimang, Badeldaob Island",1940,SCCS238,1,But Christian beliefs are widely accepted today,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc If1 and var_code 34_1"
+SCCS107,Makin and Butiritari Islands (N),1890,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If14 and var_code 34_2"
+SCCS108,with special reference to the island of Jaluit,1900,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If17 and var_code 34_1"
+SCCS109,Romonum Island,1940,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc If2 and var_code 34_1"
+SCCS99,Northeastern group,1940,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig1 and var_code 34_1"
+SCCS98,Kiriwina Island,1910,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig2 and var_code 34_1"
+SCCS97,Lesu Village,1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig4 and var_code 34_1"
+SCCS96,Peri Village,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ig9 and var_code 34_1"
+SCCS102,"Bau Chiefdom, Vanua Levu",1840,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih14 and var_code 34_1"
+SCCS101,Bunlap Village,1950,SCCS238,1,"Entry follows the Lanes, who were unable to confirm Father Tattevin's report of a high god",,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ih3 and var_code 34_1"
+SCCS106,,1829,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ii14 and var_code 34_1"
+SCCS100,Ravenga District,1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ii2 and var_code 34_1"
+SCCS104,Nga Puhi Tribe,1820,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ij2 and var_code 34_1"
+SCCS105,,1900,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ij3 and var_code 34_1"
+SCCS128,"Lynx Point band, Fort Simpson",1860,SCCS238,2,"Honigmann is uncertain whether ""the concept of a Supreme Being is actually aboriginal",,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Na17 and var_code 34_2"
+SCCS124,Coronation Gulf,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na3 and var_code 34_1"
+SCCS125,Lake St. John & Mistassini Band,1880,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na32 and var_code 34_1"
+SCCS127,Berens River band,1870,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na33 and var_code 34_1"
+SCCS129,Upper Liard and Dease River Group,1920,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na4 and var_code 34_1"
+SCCS126,Mainland division,1700,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na41 and var_code 34_2"
+SCCS122,Shageluk Village,1880,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Na8 and var_code 34_2"
+SCCS123,Unalaska Branch (Eastern Aleut),1830,SCCS238,2,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Na9 and var_code 34_2"
+SCCS131,Masset Town,1890,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb1 and var_code 34_1"
+SCCS133,Twana Tribe,1850,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb2 and var_code 34_1"
+SCCS134,,1850,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb4 and var_code 34_1"
+SCCS130,Eyak Tribe,1890,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb5 and var_code 34_1"
+SCCS132,"Central group, lower B.C. River",1880,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nb9 and var_code 34_2"
+SCCS135,"Clear Lake, Village of Cignon",1860,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc18 and var_code 34_2"
+SCCS136,Tulare Lake,1860,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc24 and var_code 34_1"
+SCCS138,Klamath Tribe,1860,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nc8 and var_code 34_1"
+SCCS137,Wadadika of Harney Valley,1870,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd22 and var_code 34_1"
+SCCS150,Havasupai Tribe,1870,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd3 and var_code 34_1"
+SCCS139,Lower or eastern branch,1880,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nd7 and var_code 34_2"
+SCCS140,Gros Ventre Tribe,1880,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ne1 and var_code 34_4"
+SCCS141,Hidatsa Village,1860,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ne15 and var_code 34_2"
+SCCS143,Omaha Tribe,1850,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nf3 and var_code 34_1"
+SCCS142,Skidi Band or subtribe,1867,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nf6 and var_code 34_2"
+SCCS144,Bear and Cord Subtribes,1640,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng1 and var_code 34_2"
+SCCS145,Upper division in Alabama,1750,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng3 and var_code 34_2"
+SCCS146,Natchez Kingdom,1700,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Ng7 and var_code 34_2"
+SCCS148,Central band,1880,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nh1 and var_code 34_1"
+SCCS149,Pueblo,1910,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nh4 and var_code 34_1"
+SCCS151,,1930,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Ni2 and var_code 34_4"
+SCCS153,City & environs of Tenochtitlan,1520,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Nj2 and var_code 34_3"
+SCCS154,Town and environs of Soteapan,1940,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Nj3 and var_code 34_4"
+SCCS158,San Blas Archipelago,1940,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sa1 and var_code 34_4"
+SCCS155,Town of Chichicastenango,1930,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sa13 and var_code 34_4"
+SCCS157,,1950,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sa5 and var_code 34_3"
+SCCS156,Vicinity: Cape Gracias a Dios,1920,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sa9 and var_code 34_4"
+SCCS161,Dominica Island,1650,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb1 and var_code 34_2"
+SCCS159,Goajiro Tribe,1940,SCCS238,3,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sb6 and var_code 34_3"
+SCCS160,,1930,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sb9 and var_code 34_4"
+SCCS162,,1950,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sc1 and var_code 34_4"
+SCCS164,Barama River,1930,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sc3 and var_code 34_2"
+SCCS166,Cabrura village,1950,SCCS238,1,"Kruse reports a creator god, but Murphy treats him as a culture hero",,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sd1 and var_code 34_1"
+SCCS163,Shamatari Tribe; Bisaasi-teri,1965,SCCS238,1,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sd9 and var_code 34_1"
+SCCS173,Vicinity of the Rio Blanco,1940,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se1 and var_code 34_2"
+SCCS169,,1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se3 and var_code 34_1"
+SCCS167,Village on Caduiari River,1940,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se5 and var_code 34_1"
+SCCS170,Upper Inuya River,1950,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Se8 and var_code 34_1"
+SCCS171,City and environs of Cuzco,1530,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sf1 and var_code 34_2"
+SCCS172,Chucuito Clan community in Peru,1940,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sf2 and var_code 34_4"
+SCCS168,Rio Cayapas Basin,1910,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sf3 and var_code 34_1"
+SCCS186,Eastern and central,1870,SCCS238,4,,,EthnographicAtlas_1967_p79,"DPLACE EA dataset, see soc Sg1 and var_code 34_4"
+SCCS184,Cholchol,1880,SCCS238,3,,,EthnographicAtlas_1967_p63,"Special reference information is from Ember et al., 1992, with updates since 1992 by Carol Ember., In D-PLACE EA dataset, see soc Sg2 and var_code 34_3"
+SCCS185,Equestrian,1870,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sg4 and var_code 34_2"
+SCCS183,Those in contact with mission,1800,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sh3 and var_code 34_1"
+SCCS182,Those in contact with mission,1890,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sh9 and var_code 34_2"
+SCCS175,Village of Vanivani,1930,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Si2 and var_code 34_1"
+SCCS174,Cocozu Group,1940,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Si4 and var_code 34_1"
+SCCS179,Village of Sao Domingo,1958,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj11 and var_code 34_1"
+SCCS180,Duque de Caxias Reservation,1910,SCCS238,1,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj3 and var_code 34_1"
+SCCS176,Ramcocamecra or Canella,1930,SCCS238,1,Nimuendaju was unable to confirm an earlier report of a supreme being,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj4 and var_code 34_1"
+SCCS177,Hinterland of Rio de Janeiro,1600,SCCS238,2,,,EthnographicAtlas_1967_p63,"DPLACE EA dataset, see soc Sj8 and var_code 34_2"
+SCCS1,Gei/Khauan tribe,1860,SCCS713,3,,,Source: dat5 v713,
+SCCS10,Morogoro District,1925,SCCS713,NA,,,Source: dat5 v713,
+SCCS100,Ravenga District,1930,SCCS713,NA,,,Source: dat5 v713,
+SCCS101,Bunlap village,1953,SCCS713,2,,,Source: dat5 v713,
+SCCS102,"Bau Chiefdom, Vanua Levu",1840,SCCS713,NA,,,Source: dat5 v713,
+SCCS103,Neje Chiefdom,1845,SCCS713,2,,,Source: dat5 v713,
+SCCS104,Nga Puhi Tribe,1820,SCCS713,NA,,,Source: dat5 v713,
+SCCS105,Te-i'i Chiefdom S.W. Nuku Hiva,1800,SCCS713,3,,,Source: dat5 v713,
+SCCS106,Aana in Western Upolu Island,1829,SCCS713,NA,,,Source: dat5 v713,
+SCCS107,Makin and Butiritari Islands (N),1890,SCCS713,1,,,Source: dat5 v713,
+SCCS108,Jaluit Atoll,1900,SCCS713,NA,,,Source: dat5 v713,
+SCCS109,Romonum Island,1947,SCCS713,1,,,Source: dat5 v713,
+SCCS11,Fort Hall or Metume District,1920,SCCS713,3,,,Source: dat5 v713,
+SCCS110,Island,1910,SCCS713,NA,,,Source: dat5 v713,
+SCCS111,Ulimang village,1947,SCCS713,2,,,Source: dat5 v713,
+SCCS112,Kiangan group,1910,SCCS713,NA,,,Source: dat5 v713,
+SCCS113,Tribe (excluding Sedeq),1930,SCCS713,3,,,Source: dat5 v713,
+SCCS114,"Kaihsienkung village, Chekiang",1936,SCCS713,NA,,,Source: dat5 v713,
+SCCS115,Aigun District,1915,SCCS713,2,,,Source: dat5 v713,
+SCCS116,Kanghwa Island,1947,SCCS713,NA,,,Source: dat5 v713,
+SCCS117,Southern Okayama,1950,SCCS713,2,,,Source: dat5 v713,
+SCCS118,Saru Basin in Hokkaido,1880,SCCS713,NA,,,Source: dat5 v713,
+SCCS119,Sakhalin Island,1890,SCCS713,3,,,Source: dat5 v713,
+SCCS12,Kyaddondo district (V: Kampala),1875,SCCS713,NA,,,Source: dat5 v713,
+SCCS120,Upper Kolyma River,1850,SCCS713,NA,,,Source: dat5 v713,
+SCCS121,Reindeer division,1900,SCCS713,3,,,Source: dat5 v713,
+SCCS122,Shageluk village,1885,SCCS713,NA,,,Source: dat5 v713,
+SCCS123,Unalaska branch,1824,SCCS713,1,,,Source: dat5 v713,
+SCCS124,Coronation Gulf,1915,SCCS713,NA,,,Source: dat5 v713,
+SCCS125,Lake St. John & Mistassahi band,1910,SCCS713,2,,,Source: dat5 v713,
+SCCS126,Mainland division,1650,SCCS713,NA,,,Source: dat5 v713,
+SCCS127,Berens River band,1930,SCCS713,2,,,Source: dat5 v713,
+SCCS128,Lynx Point band,1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS129,Upper Liard River group,1900,SCCS713,3,,,Source: dat5 v713,
+SCCS13,"Epulu net-hunters, Ituri forest",1950,SCCS713,3,,,Source: dat5 v713,
+SCCS130,Tribe,1890,SCCS713,NA,,,Source: dat5 v713,
+SCCS131,Masset town,1875,SCCS713,2,,,Source: dat5 v713,
+SCCS132,"Central group, lower B.C. River",1880,SCCS713,NA,,,Source: dat5 v713,
+SCCS133,Tribe,1860,SCCS713,3,,,Source: dat5 v713,
+SCCS134,Tsurai village,1850,SCCS713,NA,,,Source: dat5 v713,
+SCCS135,"Clear Lake, village of Cignon",1850,SCCS713,3,,,Source: dat5 v713,
+SCCS136,Tulare Lake,1850,SCCS713,NA,,,Source: dat5 v713,
+SCCS137,Wadadika of Harney Valley,1870,SCCS713,3,,,Source: dat5 v713,
+SCCS138,Tribe,1860,SCCS713,NA,,,Source: dat5 v713,
+SCCS139,Lower or eastern branch,1890,SCCS713,3,,,Source: dat5 v713,
+SCCS14,Ilanga group,1930,SCCS713,NA,,,Source: dat5 v713,
+SCCS140,Tribe,1880,SCCS713,NA,,,Source: dat5 v713,
+SCCS141,Village,1836,SCCS713,3,,,Source: dat5 v713,
+SCCS142,Skidi band or subtribe,1867,SCCS713,NA,,,Source: dat5 v713,
+SCCS143,Tribe,1860,SCCS713,2,,,Source: dat5 v713,
+SCCS144,Bear and Cord subtribes,1634,SCCS713,NA,,,Source: dat5 v713,
+SCCS145,Upper division in Alabama,1800,SCCS713,3,,,Source: dat5 v713,
+SCCS146,Kingdom,1718,SCCS713,NA,,,Source: dat5 v713,
+SCCS147,Tribe,1870,SCCS713,3,,,Source: dat5 v713,
+SCCS148,Central band,1870,SCCS713,NA,,,Source: dat5 v713,
+SCCS149,Pueblo,1880,SCCS713,2,,,Source: dat5 v713,
+SCCS15,Ndiki subtribe,1935,SCCS713,2,,,Source: dat5 v713,
+SCCS150,Tribe,1918,SCCS713,NA,,,Source: dat5 v713,
+SCCS151,Archie division,1910,SCCS713,3,,,Source: dat5 v713,
+SCCS152,Tribe,1890,SCCS713,NA,,,Source: dat5 v713,
+SCCS153,City & environs of Tenochtitlan,1520,SCCS713,3,,,Source: dat5 v713,
+SCCS154,Town and environs of Soteapan,1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS155,Town of Chichicastenango,1930,SCCS713,2,,,Source: dat5 v713,
+SCCS156,Vicinity: Cape Gracias a Dios,1921,SCCS713,NA,,,Source: dat5 v713,
+SCCS157,Tribe,1917,SCCS713,3,,,Source: dat5 v713,
+SCCS158,San Blas Archipelago,1927,SCCS713,NA,,,Source: dat5 v713,
+SCCS159,Tribe,1947,SCCS713,2,,,Source: dat5 v713,
+SCCS16,Tar of Benue Province,1920,SCCS713,NA,,,Source: dat5 v713,
+SCCS160,Town of Mirebalais,1935,SCCS713,NA,,,Source: dat5 v713,
+SCCS161,Dominica Island,1650,SCCS713,3,,,Source: dat5 v713,
+SCCS162,Winikina of Orinoco Delta,1935,SCCS713,NA,,,Source: dat5 v713,
+SCCS163,Shamatari tribe,1965,SCCS713,3,,,Source: dat5 v713,
+SCCS164,Barama River,1932,SCCS713,NA,,,Source: dat5 v713,
+SCCS165,Upper Suriname River,1928,SCCS713,3,,,Source: dat5 v713,
+SCCS166,Cabrua village,1850,SCCS713,NA,,,Source: dat5 v713,
+SCCS167,Village on Caduiari River,1939,SCCS713,3,,,Source: dat5 v713,
+SCCS168,Rio Cayapas Basin,1908,SCCS713,NA,,,Source: dat5 v713,
+SCCS169,Tribe,1920,SCCS713,3,,,Source: dat5 v713,
+SCCS17,E. Isu-Ana group of South Ibo,1935,SCCS713,2,,,Source: dat5 v713,
+SCCS170,Upper Inuya River,1960,SCCS713,NA,,,Source: dat5 v713,
+SCCS171,City and environs of Cuzco,1530,SCCS713,3,,,Source: dat5 v713,
+SCCS172,Chucuito clan community in Peru,1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS173,Vicinity of the Rio Blanco,1942,SCCS713,3,,,Source: dat5 v713,
+SCCS174,Cocozu Group,1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS175,Village of Vanivani,1938,SCCS713,3,,,Source: dat5 v713,
+SCCS176,Ramcocamecra or Canella,1915,SCCS713,NA,,,Source: dat5 v713,
+SCCS177,Hinterland of Rio de Janeiro,1550,SCCS713,3,,,Source: dat5 v713,
+SCCS178,Naknenuk subtribe,1884,SCCS713,NA,,,Source: dat5 v713,
+SCCS179,Village of Sao Domingo,1958,SCCS713,3,,,Source: dat5 v713,
+SCCS18,City and environs of Abomey,1890,SCCS713,NA,,,Source: dat5 v713,
+SCCS180,Duque de Caxias Reservation,1932,SCCS713,NA,,,Source: dat5 v713,
+SCCS181,S. Mato Grosso & adj. Paraguay,1890,SCCS713,3,,,Source: dat5 v713,
+SCCS182,Those in contact with mission,1889,SCCS713,NA,,,Source: dat5 v713,
+SCCS183,Those in contact with mission,1750,SCCS713,2,,,Source: dat5 v713,
+SCCS184,Vicinity of Temuco,1950,SCCS713,NA,,,Source: dat5 v713,
+SCCS185,Equestrian,1870,SCCS713,3,,,Source: dat5 v713,
+SCCS186,Eastern and central,1865,SCCS713,NA,,,Source: dat5 v713,
+SCCS19,Kumasi State,1895,SCCS713,3,,,Source: dat5 v713,
+SCCS2,Nyai Nyae region,1950,SCCS713,NA,,,Source: dat5 v713,
+SCCS20,Vicinity of town of Bo,1945,SCCS713,NA,,,Source: dat5 v713,
+SCCS21,Upper and lower Salum in Gambia,1950,SCCS713,2,,,Source: dat5 v713,
+SCCS22,Segou to Bamako on Niger River,1902,SCCS713,NA,,,Source: dat5 v713,
+SCCS23,Tribe,1934,SCCS713,3,,,Source: dat5 v713,
+SCCS24,Bamba division,1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS25,Wodaabe of Niger,1951,SCCS713,1,,,Source: dat5 v713,
+SCCS26,Zazzagawa of Zaria,1900,SCCS713,NA,,,Source: dat5 v713,
+SCCS27,Around Yagoua in Cameroon,1910,SCCS713,2,,,Source: dat5 v713,
+SCCS28,Yambio Chiefdom,1905,SCCS713,NA,,,Source: dat5 v713,
+SCCS29,Jebel Marra,1880,SCCS713,1,,,Source: dat5 v713,
+SCCS3,Ronga subtribe,1895,SCCS713,2,,,Source: dat5 v713,
+SCCS30,Nuba Hills,1930,SCCS713,NA,,,Source: dat5 v713,
+SCCS31,Kingdom,1910,SCCS713,3,,,Source: dat5 v713,
+SCCS32,Northern division,1939,SCCS713,NA,,,Source: dat5 v713,
+SCCS33,Kingdom,1905,SCCS713,2,,,Source: dat5 v713,
+SCCS34,Kisonko or S. Masai of Tanzania,1900,SCCS713,NA,,,Source: dat5 v713,
+SCCS35,Town of Buso,1935,SCCS713,3,,,Source: dat5 v713,
+SCCS36,Dolbahanta clan or subtribe,1900,SCCS713,NA,,,Source: dat5 v713,
+SCCS37,Gondar district,1953,SCCS713,1,,,Source: dat5 v713,
+SCCS38,Tribe,1855,SCCS713,NA,,,Source: dat5 v713,
+SCCS39,Kenuzi Nubians of Dahmit,1900,SCCS713,1,,,Source: dat5 v713,
+SCCS4,Ruling Luyana,1900,SCCS713,NA,,,Source: dat5 v713,
+SCCS40,Nomads of Tibesti,1950,SCCS713,NA,,,Source: dat5 v713,
+SCCS41,Ahaggaren tribe,1900,SCCS713,2,,,Source: dat5 v713,
+SCCS42,Entirety: Moroccan,1926,SCCS713,NA,,,Source: dat5 v713,
+SCCS43,Town and environs of Silwa,1950,SCCS713,1,,,Source: dat5 v713,
+SCCS44,Kingdom of Judea,-621,SCCS713,NA,,,Source: dat5 v713,
+SCCS45,City and environs of Babylon,-1750,SCCS713,3,,,Source: dat5 v713,
+SCCS46,Unspecified,1913,SCCS713,NA,,,Source: dat5 v713,
+SCCS47,Northern Anatolian Plateau,1950,SCCS713,1,,,Source: dat5 v713,
+SCCS48,Mountain Gheg of No. Albania,1910,SCCS713,NA,,,Source: dat5 v713,
+SCCS49,City and environs of Rome,110,SCCS713,2,,,Source: dat5 v713,
+SCCS5,Bailundo subtribe,1890,SCCS713,2,,,Source: dat5 v713,
+SCCS50,Village of Vera de Bidasoa,1934,SCCS713,NA,,,Source: dat5 v713,
+SCCS51,County Clare,1932,SCCS713,1,,,Source: dat5 v713,
+SCCS52,Konkama District,1950,SCCS713,NA,,,Source: dat5 v713,
+SCCS53,Tribe,1894,SCCS713,2,,,Source: dat5 v713,
+SCCS54,Viriatino village,1955,SCCS713,NA,,,Source: dat5 v713,
+SCCS55,Tribe,1880,SCCS713,2,,,Source: dat5 v713,
+SCCS56,Vicinity of Erevan,1843,SCCS713,NA,,,Source: dat5 v713,
+SCCS57,Town and environs of Rowanduz,1951,SCCS713,1,,,Source: dat5 v713,
+SCCS58,Nomadic branch,1958,SCCS713,NA,,,Source: dat5 v713,
+SCCS59,Mohla village,1950,SCCS713,1,,,Source: dat5 v713,
+SCCS6,Feshi territory lineage center,1920,SCCS713,NA,,,Source: dat5 v713,
+SCCS60,Hill Maria,1938,SCCS713,NA,,,Source: dat5 v713,
+SCCS61,Tribe,1900,SCCS713,3,,,Source: dat5 v713,
+SCCS62,Bankura and Berghum Districts,1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS63,Village and environs of Senapur,1945,SCCS713,2,,,Source: dat5 v713,
+SCCS64,Hunza State,1934,SCCS713,NA,,,Source: dat5 v713,
+SCCS65,Great Horde,1885,SCCS713,1,,,Source: dat5 v713,
+SCCS66,Narobanchin territory,1920,SCCS713,NA,,,Source: dat5 v713,
+SCCS67,Liang Shan and Taliang Shan,1910,SCCS713,3,,,Source: dat5 v713,
+SCCS68,Lingthem and vicinity,1937,SCCS713,NA,,,Source: dat5 v713,
+SCCS69,Rengsanggri village,1955,SCCS713,2,,,Source: dat5 v713,
+SCCS7,Zambia branch,1897,SCCS713,3,,,Source: dat5 v713,
+SCCS70,Tribe,1930,SCCS713,NA,,,Source: dat5 v713,
+SCCS71,Nondwin village,1965,SCCS713,1,,,Source: dat5 v713,
+SCCS72,"Tribe, Northwestern Laos",1940,SCCS713,NA,,,Source: dat5 v713,
+SCCS73,Red River Delta in Tonkin,1930,SCCS713,2,,,Source: dat5 v713,
+SCCS74,Ko-Sier village,1962,SCCS713,NA,,,Source: dat5 v713,
+SCCS75,"City of Angkor, Capital",1292,SCCS713,2,,,Source: dat5 v713,
+SCCS76,Bang Chan village,1955,SCCS713,NA,,,Source: dat5 v713,
+SCCS77,Jehai Group or subtribe,1925,SCCS713,3,,,Source: dat5 v713,
+SCCS78,Car Nicobar of North Islands,1870,SCCS713,NA,,,Source: dat5 v713,
+SCCS79,Aka-Bea of South Andaman,1860,SCCS713,3,,,Source: dat5 v713,
+SCCS8,Age villages of Mwaya and Masoko,1934,SCCS713,NA,,,Source: dat5 v713,
+SCCS80,Danigala Forest hunting group,1860,SCCS713,NA,,,Source: dat5 v713,
+SCCS81,Menabe subtribe,1925,SCCS713,3,,,Source: dat5 v713,
+SCCS82,Inas District,1958,SCCS713,NA,,,Source: dat5 v713,
+SCCS83,Town and environs of Pare,1954,SCCS713,2,,,Source: dat5 v713,
+SCCS84,Tihingan village,1958,SCCS713,NA,,,Source: dat5 v713,
+SCCS85,Ulu Ai group,1950,SCCS713,3,,,Source: dat5 v713,
+SCCS86,Tawi-Tawi and adjacent islands,1963,SCCS713,NA,,,Source: dat5 v713,
+SCCS87,Bare'e subgroup,1910,SCCS713,3,,,Source: dat5 v713,
+SCCS88,Tobelo District,1900,SCCS713,NA,,,Source: dat5 v713,
+SCCS89,Abui of Atimelang village,1938,SCCS713,3,,,Source: dat5 v713,
+SCCS9,Tribe,1930,SCCS713,3,,,Source: dat5 v713,
+SCCS90,Tribe: Melville Island,1929,SCCS713,NA,,,Source: dat5 v713,
+SCCS91,Alice Springs and environs,1896,SCCS713,3,,,Source: dat5 v713,
+SCCS92,Aiga subtribe,1925,SCCS713,NA,,,Source: dat5 v713,
+SCCS93,Bamol village,1960,SCCS713,2,,,Source: dat5 v713,
+SCCS94,Botukebo village,1955,SCCS713,NA,,,Source: dat5 v713,
+SCCS95,Hongwam subtribe,1937,SCCS713,3,,,Source: dat5 v713,
+SCCS96,Peri village,1929,SCCS713,NA,,,Source: dat5 v713,
+SCCS97,Lesu village,1930,SCCS713,3,,,Source: dat5 v713,
+SCCS98,Kiriwina Island,1914,SCCS713,NA,,,Source: dat5 v713,
+SCCS99,Northeastern group,1939,SCCS713,2,,,Source: dat5 v713,
